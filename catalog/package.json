@@ -23,7 +23,7 @@
     "is-url": "1.2.4",
     "mocha": "6.1.4",
     "promise-queue": "2.2.5",
-    "sharp": "0.22.1",
+    "sharp": "0.30.5",
     "slugg": "1.2.1",
     "yamljs": "0.3.0"
   }
